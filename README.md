@@ -11,3 +11,5 @@ when letting a Q-learning algorithm play against another Q-learning algorithm. A
 and discount factor of 0.5 and 0.96 showed the best results, however the data suggested even
 higher values of the discount factor might give even better results. In a Tic-Tac-Toe, it requires
 about 1 million games to reach a good result.
+
+See report file for results and code details
