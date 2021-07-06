@@ -1,5 +1,5 @@
 # Overview
-This report applies the reinforcement learning algorithm Q-learning to the simple pen and pencil
+This repository applies the reinforcement learning algorithm Q-learning to the simple pen and pencil
 game cross & zero, also known as Tic-Tac-Toe. The goal is to analyze how different parameters
 and opponents affect the performance of the Q-learning algorithm. Simple computer opponents
 play against the Random Q-learning algorithm and later Q-learning algorithms higher level
